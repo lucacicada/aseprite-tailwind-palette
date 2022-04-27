@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-palette",
+  "displayName": "Tailwind Palette",
+  "description": "Tailwind Palette",
+  "version": "1.0",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "tailwind", "path": "./tailwind.gpl" }
+    ]
+  }
+}
